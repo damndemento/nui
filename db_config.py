@@ -1,9 +1,9 @@
 # db_config.py
 
 DB_CONFIG = {
-    "host": "192.168.15.189",
+    "host": "192.168.0.1",
     "user": "admin",
-    "password": "^rig#3#vC5gyeC^!3q6B",
-    "database": "nw_manager",
+    "password": "<strongpasswd>",
+    "database": "<db-name>",
     "port": 3306
 }
